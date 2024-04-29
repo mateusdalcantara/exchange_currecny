@@ -76,7 +76,7 @@ public class Principal {
                     api.currency("GBP", "BRL", moneyAmount);
                     break;
                 default:
-                    System.out.println("Thank you for use my ap and come back soon!");
+                    System.out.println("Thank you, and come back soon!");
                     break;
             }
         }
