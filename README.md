@@ -24,6 +24,7 @@
 > - ✅ Trello
 > - 🚩 ExchangeRate-API
 > - ✉️ Postman
+> - 🔢 Intellij
 >   
 > 🌞 [Linkedin](https://www.linkedin.com/in/mateus-alcantara-7280b525b)
 > 
