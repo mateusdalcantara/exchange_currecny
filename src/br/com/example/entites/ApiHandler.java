@@ -10,16 +10,10 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.Scanner;
 
 public class ApiHandler {
 
     public String currency(String firstMoney, String secondMoney, Double amount) {
-
-        Messager messager = new Messager();
-        Scanner sc = new Scanner(System.in);
-
-        int number = 0;
 
         try {
 
