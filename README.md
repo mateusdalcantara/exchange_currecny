@@ -7,7 +7,7 @@
 >   (base currency like BRL) to the equivalent value in the
 >   exchange rate of another currency (target currency like USD).
 >
-> ####:red_circle: Instructions :red_circle:
+> #### :red_circle: Instructions :red_circle:
 >
 >  - You will need to set the amount of money first and then you will choose the operations BRL to USD, USD to BRL, etc.
 >  - If you set the amount of money as 10.000,00 or 10000 and choose the first option, to convert the base currency (BRL) to the target
