@@ -1,6 +1,6 @@
 <h1 align="center">💰Exchange Currency Project💵</h1>
 
-> #### Description 📢
+> #### :mag_right: Description 📢
 > - The code makes a request to an API called ExchangeRate-API.
 >
 > - This API is responsible for returning the conversion of a specific value of a currency
@@ -18,7 +18,7 @@
 >    named apiKey.txt and it should contain the API key without quotes (“”).
 >  - Attention, the rate may change in the future. The current exchange rate (04/29/2024) from BRL to USD is 5.14.
 >      
-> #### Technologies used in the process ⚡
+> #### :wrench: Technologies used in the process ⚡
 >
 > - ☕ Java
 > - ✅ Trello
