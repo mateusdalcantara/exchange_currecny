@@ -36,9 +36,8 @@ public class Principal {
             try {
                 System.out.println(messager.menuOptions());
                 System.out.println("Choose the operation");
-
                 option = sc.nextInt();
-
+                
                 if (option < 1 || option > 9) {
                     System.out.println("You have chosen an invalid option. Please enter a number between 1 and 9");
                 }
