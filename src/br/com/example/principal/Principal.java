@@ -45,7 +45,6 @@ public class Principal {
             } catch (InputMismatchException e) {
                 System.out.println("You have entered an invalid option. Please enter a number between 1 and 9.");
                 sc.next();
-
             }
 
             switch (option) {
