@@ -38,9 +38,9 @@ public class ApiHandler {
                     String stringResponse = response.body();
 
                     Gson gson = new Gson();
-                    JsonDeserializer showTheInputOfAPI = gson.fromJson(stringResponse, JsonDeserializer.class);
+                    JsonDeserializer showTheInputOfApi = gson.fromJson(stringResponse, JsonDeserializer.class);
 
-                    System.out.println(showTheInputOfAPI.toString());
+                    System.out.println(showTheInputOfApi.toString());
 
                 } else {
                     System.err.println("Failed to fetch data. HTTP error code: " + response.statusCode());
