@@ -18,7 +18,6 @@ public class Principal {
 
         int option = 0;
         boolean invalidEntry;
-
         double moneyAmount = 0;
 
         while (option != 9) {
